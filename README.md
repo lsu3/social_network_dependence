@@ -20,11 +20,11 @@ Supplementary code for the paper "Testing and Estimation of Social Network Depen
 4. Run to get the standard error.
 
 # Version information:
-R version: 3.4.1 (2017-06-30) -- "Single Candle"
-survival: survival_2.41-3
-parallel: parallel
-foreach: foreach_1.4.3
-doParallel: doParallel_1.0.11
+1. R version: 3.4.1 (2017-06-30) -- "Single Candle"
+2. survival: survival_2.41-3
+3. parallel: parallel
+4. foreach: foreach_1.4.3
+5. doParallel: doParallel_1.0.11
 
 # Run time information:
 These results are based on MacBook pro(Retina, 13-inch, Late 2013), 2.4 GHz Intel Core i5, 8 GB 1600 MHz DDR3, macOS Sierra(version 10.12.6)
